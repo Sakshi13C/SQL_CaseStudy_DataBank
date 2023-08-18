@@ -1,8 +1,8 @@
 # SQL_CaseStudy_DataBank
-📚 Table of Contents:
-Business Task
-Entity Relationship Diagram
-Question and Solution
+📚 Table of Contents:   <br>
+Business Task   <br>
+Entity Relationship Diagram   <br>
+Question and Solution   <br>
 Information regarding the case study has been sourced from the following link: https://8weeksqlchallenge.com/
 
 **Business Task**
