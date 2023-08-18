@@ -1,5 +1,5 @@
 # SQL_CaseStudy_DataBank
-📚 Table of Contents:   <br>
+📚 **Table of Contents:**   <br>
 Business Task   <br>
 Entity Relationship Diagram   <br>
 Question and Solution   <br>
